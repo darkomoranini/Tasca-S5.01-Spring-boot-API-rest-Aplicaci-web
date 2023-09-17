@@ -1,0 +1,7 @@
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/repository/IsucursalRepository.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/S05T01N01MorandiniDarkoApplication.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/controllers/SucursalController.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/model/iservices/IsucursalServices.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/model/domain/Sucursal.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/model/dto/SucursalDTO.class
+cat/itacademy/barcelonactiva/cognoms/nom/s05/t01/n01/model/services/SucursalService.class
