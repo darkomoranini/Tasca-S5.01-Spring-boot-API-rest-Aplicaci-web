@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n01.S05T01N01MorandiniDarkoApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.778 s - in cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n01.S05T01N01MorandiniDarkoApplicationTests
